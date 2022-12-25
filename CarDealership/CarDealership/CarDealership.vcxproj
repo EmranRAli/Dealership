@@ -128,9 +128,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="carType.h" />
+    <ClInclude Include="oldType.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="carType.cpp" />
+    <ClCompile Include="oldType.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

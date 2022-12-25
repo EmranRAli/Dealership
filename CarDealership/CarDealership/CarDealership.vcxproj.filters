@@ -18,9 +18,15 @@
     <ClInclude Include="carType.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="oldType.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="carType.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="oldType.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
