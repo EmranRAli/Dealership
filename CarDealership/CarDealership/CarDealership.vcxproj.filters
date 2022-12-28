@@ -21,12 +21,21 @@
     <ClInclude Include="oldType.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="newType.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="carType.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="oldType.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="newType.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
